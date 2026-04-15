@@ -1,1 +1,6 @@
+<<<<<<< HEAD
+line from main 
+line from level 1 
+=======
 "Cambio importante en la base" 
+>>>>>>> main
